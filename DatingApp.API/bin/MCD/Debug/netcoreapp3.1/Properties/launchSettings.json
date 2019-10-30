@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:10806",
-      "sslPort": 44301
+      "applicationUrl": "http://localhost:38234",
+      "sslPort": 44389
     }
   },
   "profiles": {
@@ -20,7 +20,7 @@
     "DatingApp.API": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "api/values",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"

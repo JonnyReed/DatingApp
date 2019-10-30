@@ -1,5 +1,5 @@
-using DatingApp.API.Models;
 using Microsoft.EntityFrameworkCore;
+using DatingApp.API.Models;
 
 namespace DatingApp.API.Data
 {
